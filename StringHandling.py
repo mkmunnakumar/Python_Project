@@ -1,0 +1,5 @@
+str1 = str(input("Enter first String: "))
+str2 = str(input("Enter second String: "))
+print(str1[0:2])
+print(str1 * 2)
+print(str2+str1)
